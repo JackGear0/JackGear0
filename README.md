@@ -9,3 +9,5 @@
 - 🌱 I’m currently learning Dart and Flutter
 - 🌱 Atualmente aprendendo Dart and Flutter
 
+[gmail]: mailto:felipeleo61@gmail.com
+[linkedin]: https://www.linkedin.com/in/felipe-leo-207682227
