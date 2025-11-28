@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38B6FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Felipe+Leo;Eu+tenho+21+anos;Sou+do+Brasil;Seja+bem+vindo!)](https://git.io/typing-svg)
 
-- 💻 I have experience with C, Python and Elixir
-- 💻 Possuo experiencia com C, Python e Elixir
-- 🌱 I’m currently learning Dart and Flutter
-- 🌱 Atualmente aprendendo Dart and Flutter
+- 💻 I have experience with C, Python, Elixir, Dart, Flutter and Swift
+- 💻 Possuo experiencia com C, Python, Elixir, Dart, Flutter and Swift
+- 🌱 I’m currently learning more about UiKit and iOS
+- 🌱 Atualmente aprendendo sobre UiKit e iOS
